@@ -1,0 +1,651 @@
+[
+    {
+        "FirstName": "Chris",
+        "LastName": "Horwhat",
+        "LessonNumber": 13,
+        "Activities": [
+            [
+                "PRE-SOLO: Crosswind Takeoff and Climb",
+                3.0,
+                "Graded",
+                "Crosswind notes"
+            ],
+            [
+                "X/C: Soft Field Approach and Landing",
+                3.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 1,
+        "Activities": [
+            [
+                "BASICS: Constant Airspeed Climbs",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: After Landing, Parking and Securing",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Taxiing",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Straight and Level",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Level Turns",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Trim Control",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Descents (Power On/Off)",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Low Approach to Runway",
+                4.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 2,
+        "Activities": [
+            [
+                "PRE-SOLO: Normal Takeoff and Climb",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Communications: Towered/Non-Towered",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Climbs",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: After Landing, Parking and Securing",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Taxiing",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Straight and Level",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Collision Avoidance",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Level Turns",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Trim Control",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Descents (Power On/Off)",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Low Approach to Runway",
+                4.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 3,
+        "Activities": [
+            [
+                "PRE-SOLO: Normal Takeoff and Climb",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Communications: Towered/Non-Towered",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Power Off Approach and Landing",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Preflight Inspection",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Descending Turns (Power On/Off)",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Climbing Turns",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Power-On Stalls",
+                4.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 4,
+        "Activities": [
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Power Off Approach and Landing",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Descending Turns (Power On/Off)",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Constant Airspeed Climbing Turns",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Engine Starting",
+                2.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Traffic Patterns (Towered/Non-Towered)",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Power-On Stalls",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Lost Communications and Light Gun Signals",
+                1.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "BASICS: Navigating To/From Practice Area",
+                3.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 5,
+        "Activities": [
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                2.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Manuevering During Slow Flight",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Go Around/Rejected Landing",
+                4.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Engine Starting",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Normal Approach and Landing",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Traffic Patterns (Towered/Non-Towered)",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Lost Communications and Light Gun Signals",
+                5.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 6,
+        "Activities": [
+            [
+                "PRE-SOLO: Manuevering During Slow Flight",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "BASICS: Navigating To/From Local Airports",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Before Takeoff Check",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Go Around/Rejected Landing",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Normal Approach and Landing",
+                4.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 7,
+        "Activities": [
+            [
+                "PRE-SOLO: Manuevering During Slow Flight",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "BASICS: Navigating To/From Local Airports",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Before Takeoff Check",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Go Around/Rejected Landing",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Normal Approach and Landing",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 8,
+        "Activities": [
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Manuevering During Slow Flight",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "BASICS: Navigating To/From Local Airports",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Before Takeoff Check",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Go Around/Rejected Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Normal Approach and Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 9,
+        "Activities": [
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Communications: Towered/Non-Towered",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Manuevering During Slow Flight",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Before Takeoff Check",
+                5.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Go Around/Rejected Landing",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Normal Approach and Landing",
+                3.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 10,
+        "Activities": [
+            [
+                "PRE-SOLO: Steep Turns",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Crosswind Approach and Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Crosswind Takeoff and Climb",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Forward Slip to Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Flight Deck Management",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Power-On Stalls",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 11,
+        "Activities": [
+            [
+                "PRE-SOLO: Steep Turns",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Crosswind Approach and Landing",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Crosswind Takeoff and Climb",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Forward Slip to Landing",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Traffic Patterns (Towered/Non-Towered)",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ],
+            [
+                "PRE-SOLO: Flight Deck Management",
+                0.0,
+                "Skipped",
+                "Poor Conditions"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 12,
+        "Activities": [
+            [
+                "PRE-SOLO: Steep Turns",
+                3.0,
+                "Graded",
+                "JgcfjgfjgcjgcjgjgcghcjcgjfjgcjcjgcHgcghchgcgjcgjcgjc"
+            ],
+            [
+                "PRE-SOLO: Power-Off Stalls",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Crosswind Approach and Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "PRE-SOLO: Crosswind Takeoff and Climb",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Emergency Approach and Landing (Simulated)",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Forward Slip to Landing",
+                0.0,
+                "Skipped",
+                "Out of Time"
+            ],
+            [
+                "BASICS: Trim Control",
+                3.0,
+                "Graded",
+                "No Notes"
+            ],
+            [
+                "PRE-SOLO: Flight Deck Management",
+                5.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    }
+]
