@@ -1,24 +1,5 @@
 [
     {
-        "FirstName": "Chris",
-        "LastName": "Horwhat",
-        "LessonNumber": 13,
-        "Activities": [
-            [
-                "PRE-SOLO: Crosswind Takeoff and Climb",
-                3.0,
-                "Graded",
-                "Crosswind notes"
-            ],
-            [
-                "X/C: Soft Field Approach and Landing",
-                3.0,
-                "Graded",
-                "No Notes"
-            ]
-        ]
-    },
-    {
         "FirstName": "James",
         "LastName": "Tyeryar",
         "LessonNumber": 1,
@@ -643,6 +624,25 @@
             [
                 "PRE-SOLO: Flight Deck Management",
                 5.0,
+                "Graded",
+                "No Notes"
+            ]
+        ]
+    },
+    {
+        "FirstName": "James",
+        "LastName": "Tyeryar",
+        "LessonNumber": 13,
+        "Activities": [
+            [
+                "PRE-SOLO: Crosswind Takeoff and Climb",
+                3.0,
+                "Graded",
+                "Crosswind notes"
+            ],
+            [
+                "X/C: Soft Field Approach and Landing",
+                3.0,
                 "Graded",
                 "No Notes"
             ]

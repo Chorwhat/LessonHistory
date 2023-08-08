@@ -1,11 +1,13 @@
 import React, { useState }  from 'react'
 import './App.css'
 import { useDropzone } from 'react-dropzone';
+import LessonVisualization from './LessonVisualization';
 
 
 const App = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [isRendered, setIsRendered] = useState(false);
+  const [jsonData, setJsonData] = useState(null);
 
   const handleFileDrop = (acceptedFiles) => {
     setIsRendered(false)
@@ -33,7 +35,8 @@ const App = () => {
         fetch('http://127.0.0.1:5000/output.json')
           .then((response) => response.json())
           .then((jsonData) => {
-            console.log(jsonData); // This logs the JSON data from the output.json file
+            console.log("json:", jsonData); // This logs the JSON data from the output.json file
+            setJsonData(jsonData);
             setIsRendered(true);
           })
           .catch((error) => {
@@ -76,6 +79,7 @@ const App = () => {
       )
       }
       
+      {jsonData && <LessonVisualization jsonData={jsonData} />}
     </div>
   );
 };

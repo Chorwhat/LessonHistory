@@ -40,3 +40,58 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Updated CSS for responsiveness */
+
+.lesson-visualization {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.lesson-box {
+  width: calc(50% - 20px);
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  flex: 1 0 calc(50% - 20px); /* Adjusts the width based on screen size */
+}
+
+.activities-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.activity-capsule {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.activity-name {
+  flex: 1;
+  font-weight: bold;
+}
+
+.activity-score {
+  margin-left: 10px;
+}
+
+.activity-status {
+  margin-left: 10px;
+}
+
+.activity-notes {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+  .lesson-box {
+    width: calc(100% - 20px); /* Takes full width on smaller screens */
+  }
+}
