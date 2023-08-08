@@ -1,0 +1,94 @@
+FirstName,LastName,LessonNumber,Info_Name,Score,Status,Notes
+James,Tyeryar,13,PRE-SOLO: Crosswind Takeoff and Climb,3,Graded,Crosswind notes
+James,Tyeryar,13,X/C: Soft Field Approach and Landing,3,Graded,
+James,Tyeryar,12,PRE-SOLO: Steep Turns,3,Graded,JgcfjgfjgcjgcjgjgcghcjcgjfjgcjcjgcHgcghchgcgjcgjcgjc
+James,Tyeryar,12,PRE-SOLO: Power-Off Stalls,NULL,Skipped,Out of Time
+James,Tyeryar,12,PRE-SOLO: Crosswind Approach and Landing,NULL,Skipped,Out of Time
+James,Tyeryar,12,PRE-SOLO: Crosswind Takeoff and Climb,3,Graded,
+James,Tyeryar,12,PRE-SOLO: Emergency Approach and Landing (Simulated),3,Graded,
+James,Tyeryar,12,PRE-SOLO: Forward Slip to Landing,NULL,Skipped,Out of Time
+James,Tyeryar,12,BASICS: Trim Control,3,Graded,
+James,Tyeryar,12,PRE-SOLO: Flight Deck Management,5,Graded,
+James,Tyeryar,11,PRE-SOLO: Steep Turns,NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Power-Off Stalls,NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Crosswind Approach and Landing,NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Crosswind Takeoff and Climb,NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Emergency Approach and Landing (Simulated),NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Forward Slip to Landing,NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Traffic Patterns (Towered/Non-Towered),NULL,Skipped,Poor Conditions
+James,Tyeryar,11,PRE-SOLO: Flight Deck Management,NULL,Skipped,Poor Conditions
+James,Tyeryar,10,PRE-SOLO: Steep Turns,NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Crosswind Approach and Landing,NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Crosswind Takeoff and Climb,NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Emergency Approach and Landing (Simulated),NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Forward Slip to Landing,NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Flight Deck Management,NULL,Skipped,Out of Time
+James,Tyeryar,10,PRE-SOLO: Power-On Stalls,NULL,Skipped,Out of Time
+James,Tyeryar,9,PRE-SOLO: Power-Off Stalls,3,Graded,
+James,Tyeryar,9,PRE-SOLO: Communications: Towered/Non-Towered,3,Graded,
+James,Tyeryar,9,PRE-SOLO: Manuevering During Slow Flight,3,Graded,
+James,Tyeryar,9,PRE-SOLO: Before Takeoff Check,5,Graded,
+James,Tyeryar,9,PRE-SOLO: Emergency Approach and Landing (Simulated),3,Graded,
+James,Tyeryar,9,PRE-SOLO: Go Around/Rejected Landing,3,Graded,
+James,Tyeryar,9,PRE-SOLO: Normal Approach and Landing,3,Graded,
+James,Tyeryar,8,PRE-SOLO: Power-Off Stalls,NULL,Skipped,Out of Time
+James,Tyeryar,8,PRE-SOLO: Manuevering During Slow Flight,NULL,Skipped,Out of Time
+James,Tyeryar,8,BASICS: Navigating To/From Local Airports,NULL,Skipped,Out of Time
+James,Tyeryar,8,PRE-SOLO: Before Takeoff Check,NULL,Skipped,Out of Time
+James,Tyeryar,8,PRE-SOLO: Emergency Approach and Landing (Simulated),NULL,Skipped,Out of Time
+James,Tyeryar,8,PRE-SOLO: Go Around/Rejected Landing,NULL,Skipped,Out of Time
+James,Tyeryar,8,PRE-SOLO: Normal Approach and Landing,NULL,Skipped,Out of Time
+James,Tyeryar,7,PRE-SOLO: Manuevering During Slow Flight,NULL,Skipped,Poor Conditions
+James,Tyeryar,7,BASICS: Navigating To/From Local Airports,NULL,Skipped,Poor Conditions
+James,Tyeryar,7,PRE-SOLO: Before Takeoff Check,NULL,Skipped,Poor Conditions
+James,Tyeryar,7,PRE-SOLO: Emergency Approach and Landing (Simulated),NULL,Skipped,Poor Conditions
+James,Tyeryar,7,PRE-SOLO: Go Around/Rejected Landing,NULL,Skipped,Poor Conditions
+James,Tyeryar,7,PRE-SOLO: Normal Approach and Landing,NULL,Skipped,Poor Conditions
+James,Tyeryar,6,PRE-SOLO: Manuevering During Slow Flight,NULL,Skipped,Poor Conditions
+James,Tyeryar,6,BASICS: Navigating To/From Local Airports,NULL,Skipped,Poor Conditions
+James,Tyeryar,6,PRE-SOLO: Before Takeoff Check,NULL,Skipped,Poor Conditions
+James,Tyeryar,6,PRE-SOLO: Emergency Approach and Landing (Simulated),3,Graded,
+James,Tyeryar,6,PRE-SOLO: Go Around/Rejected Landing,NULL,Skipped,Poor Conditions
+James,Tyeryar,6,PRE-SOLO: Normal Approach and Landing,4,Graded,
+James,Tyeryar,5,PRE-SOLO: Power-Off Stalls,2,Graded,
+James,Tyeryar,5,PRE-SOLO: Manuevering During Slow Flight,3,Graded,
+James,Tyeryar,5,PRE-SOLO: Go Around/Rejected Landing,4,Graded,
+James,Tyeryar,5,PRE-SOLO: Engine Starting,5,Graded,
+James,Tyeryar,5,PRE-SOLO: Normal Approach and Landing,3,Graded,
+James,Tyeryar,5,PRE-SOLO: Traffic Patterns (Towered/Non-Towered),5,Graded,
+James,Tyeryar,5,PRE-SOLO: Lost Communications and Light Gun Signals,5,Graded,
+James,Tyeryar,4,PRE-SOLO: Power-Off Stalls,5,Graded,
+James,Tyeryar,4,BASICS: Power Off Approach and Landing,4,Graded,
+James,Tyeryar,4,BASICS: Constant Airspeed Descending Turns (Power On/Off),3,Graded,
+James,Tyeryar,4,BASICS: Constant Airspeed Climbing Turns,3,Graded,
+James,Tyeryar,4,PRE-SOLO: Engine Starting,2,Graded,
+James,Tyeryar,4,PRE-SOLO: Traffic Patterns (Towered/Non-Towered),3,Graded,
+James,Tyeryar,4,PRE-SOLO: Power-On Stalls,4,Graded,
+James,Tyeryar,4,PRE-SOLO: Lost Communications and Light Gun Signals,1,Graded,
+James,Tyeryar,4,BASICS: Navigating To/From Practice Area,3,Graded,
+James,Tyeryar,3,PRE-SOLO: Normal Takeoff and Climb,3,Graded,
+James,Tyeryar,3,PRE-SOLO: Communications: Towered/Non-Towered,4,Graded,
+James,Tyeryar,3,BASICS: Power Off Approach and Landing,4,Graded,
+James,Tyeryar,3,PRE-SOLO: Preflight Inspection,5,Graded,
+James,Tyeryar,3,BASICS: Constant Airspeed Descending Turns (Power On/Off),4,Graded,
+James,Tyeryar,3,BASICS: Constant Airspeed Climbing Turns,3,Graded,
+James,Tyeryar,3,PRE-SOLO: Power-On Stalls,4,Graded,
+James,Tyeryar,2,PRE-SOLO: Normal Takeoff and Climb,3,Graded,
+James,Tyeryar,2,PRE-SOLO: Communications: Towered/Non-Towered,4,Graded,
+James,Tyeryar,2,BASICS: Constant Airspeed Climbs,5,Graded,
+James,Tyeryar,2,"PRE-SOLO: After Landing, Parking and Securing",5,Graded,
+James,Tyeryar,2,PRE-SOLO: Taxiing,4,Graded,
+James,Tyeryar,2,BASICS: Straight and Level,5,Graded,
+James,Tyeryar,2,PRE-SOLO: Collision Avoidance,5,Graded,
+James,Tyeryar,2,BASICS: Level Turns,5,Graded,
+James,Tyeryar,2,BASICS: Trim Control,5,Graded,
+James,Tyeryar,2,BASICS: Constant Airspeed Descents (Power On/Off),5,Graded,
+James,Tyeryar,2,BASICS: Low Approach to Runway,4,Graded,
+James,Tyeryar,1,BASICS: Constant Airspeed Climbs,4,Graded,
+James,Tyeryar,1,"PRE-SOLO: After Landing, Parking and Securing",5,Graded,
+James,Tyeryar,1,PRE-SOLO: Taxiing,3,Graded,
+James,Tyeryar,1,BASICS: Straight and Level,3,Graded,
+James,Tyeryar,1,BASICS: Level Turns,4,Graded,
+James,Tyeryar,1,BASICS: Trim Control,3,Graded,
+James,Tyeryar,1,BASICS: Constant Airspeed Descents (Power On/Off),4,Graded,
+James,Tyeryar,1,BASICS: Low Approach to Runway,4,Graded,
